@@ -51,7 +51,7 @@ The key's randomart image is:
 ```
 clip < C:\Users\mike.taft/.ssh/id_ed25519.pub
 
-// the portion 'C:\Users\mike.taft/.ssh/id_ed25519.pub need to match your SSH key file path. The one showed below is an example. To find your path, scroll up in command prompt to where your SSH key was generated. Look for the text 'Your indentification has been saved in', that is your path to your SSH key.
+// the portion 'C:\Users\mike.taft/.ssh/id_ed25519.pub needs to match your SSH key file path. The one shown above is an example. To find your path, scroll up in command prompt to where your SSH key was generated. Look for the text 'Your indentification has been saved in', that is your path to your SSH key.
 
 ```
 
